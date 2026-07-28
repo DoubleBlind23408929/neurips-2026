@@ -1,0 +1,13 @@
+python -m src.feature_extraction.process_datasets \
+  --root dataset/sae_diagnostic_dataset \
+  --dataset sae_diagnostic \
+  --split diagnostic \
+  --out-h5 sae-data/sae_diagnostic_dataset/musicfm/sae_diagnostic_dataset_musicfm_30s_layer_2.h5 \
+  --rep musicfm_layer \
+  --musicfm-layer 2 \
+  --duration 30 \
+  --hop 30 \
+  --inference \
+  --dtype float16 \
+  --compression lzf \
+  --mode mix
