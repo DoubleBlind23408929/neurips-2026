@@ -1,5 +1,6 @@
 # From Isolated feature to Orbits: Discovering Music Concepts via Multi-SAE Alignment
-Please see [this link](./manuscript_v10.pdf) for the latest paper draft.
+Please see [this link](./manuscript_v10.pdf) for the latest paper draft.  
+Audio samples and their SAE activations are available on our [demo page](https://doubleblind23408929.github.io/o-sae-demo-page/).
 
 Here is the outline of the paper:
 * **Introduction**
